@@ -1,2 +1,3 @@
 
-#Anna Nichols 
+#Anna Nichols
+acncihols@mines.edu 
