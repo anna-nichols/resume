@@ -1,4 +1,3 @@
-
 #Anna Nichols
 **eamil:** acncihols@mines.edu 
 **Address:** Golden, CO
